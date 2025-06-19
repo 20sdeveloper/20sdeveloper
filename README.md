@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Holographic Logo](![20s DEVELOPERS ok](https://github.com/user-attachments/assets/6ec38467-fffd-48e7-aab2-05a761494555))
+![Holographic Logo]
 *🔮 Interactive 3D Logo - [Replace with actual holographic animation]*
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+the+METAVERSE;Building+INFINITE+Possibilities;AI+%E2%80%A2+BLOCKCHAIN+%E2%80%A2+XR+NATIVE;20%27s+Developers+ACTIVATED;Reality++ENHANCED)
