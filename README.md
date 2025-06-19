@@ -184,7 +184,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=givve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=givve&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=20sdeveloper&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
