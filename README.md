@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Holographic Logo](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&height=120&lines=GIVVE;%C3%97;20%27s+DEVELOPERS;REALITY+ARCHITECTS;QUANTUM+BUILDERS)
+![Holographic Logo](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=1000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&height=120&lines=20sdeveloper;%C3%97;20%27s+DEVELOPERS;REALITY+ARCHITECTS;QUANTUM+BUILDERS)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+the+METAVERSE;Building+INFINITE+Possibilities;AI+%E2%80%A2+BLOCKCHAIN+%E2%80%A2+XR+NATIVE;20%27s+Developers+ACTIVATED;Reality++ENHANCED;Code+That+Transcends+Dimensions;Building+Tomorrow%27s+Digital+Civilization)
 
@@ -180,9 +180,9 @@
 
 ![Achievements](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=70&lines=ACHIEVEMENTS+UNLOCKED;FLOATING+IN+CYBERSPACE;QUANTUM+STATISTICS;REALITY+METRICS)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=givve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20sdeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=givve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20sdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=20sdeveloper&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
