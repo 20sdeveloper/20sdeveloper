@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=20s+Developers+🚀;Your+Partner+in+Digital+Innovation" alt="Typing SVG" />
+<img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="80"/>
 
-🎯 **Custom Software | AI/ML | UI/UX | Mobile & Web Apps**
+# 20s Developers  
+### *Your Trusted Technology Partner for Custom Solutions*
 
-![3D Logo](https://img.icons8.com/3d-fluency/94/rocket.png)
+🚀 **Digital Innovation | AI/ML | Web & Mobile Apps | UI/UX Design**  
 
-> 🚀 *We help businesses grow through modern, scalable, and intelligent technology solutions.*
+> We craft tailored technology to fuel your business growth — built for scalability, designed for people.
 
-📱 **React** • **Node.js** • **AI/ML** • **NLP** • **Full-Stack** • **Design-Driven Development**
+---
 
-🌐 [Website](https://20sdevelopers.com) | 💼 [LinkedIn](https://linkedin.com/company/20sdevelopers) | 📩 contact@20sdevelopers.com
+🛠️ **Tech Stack**  
+React • Node.js • Express • AI/ML • NLP • REST APIs • Figma
+
+🌐 [Website](https://20sdevelopers.com) &nbsp;&nbsp;&nbsp; 💼 [LinkedIn](https://linkedin.com/company/20sdevelopers) &nbsp;&nbsp;&nbsp; 📧 contact@20sdevelopers.com  
 
 </div>
